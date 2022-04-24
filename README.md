@@ -3,7 +3,7 @@
 
 Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany** <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/>
 
-## My Profiles
+## Find me at
 
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Alexander_Fischenich/cv)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-f-bb538a63)
