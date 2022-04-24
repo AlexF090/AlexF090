@@ -1,4 +1,4 @@
-# Hello! Nice to see you.
+<h1 align="center">👋 Hello! Nice to see you.</h1>
 
 
 Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany** <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/>
@@ -78,3 +78,5 @@ Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexF090)
