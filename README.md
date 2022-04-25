@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! Nice to see you.</h1>
 
 
-Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany** <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/>
+Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany** 🇩🇪
 
 ## Find me at
 
