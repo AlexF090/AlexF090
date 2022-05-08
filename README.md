@@ -9,6 +9,15 @@ Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-f-bb538a63)
 <br> **(clickable)**
 
+## My Projects
+
+[![My Projects](https://img.shields.io/badge/⛽️-Capstone%20Project-blue?style=for-the-badge)](https://github.com/D3nnis249/capstone-project)
+<br> **(Dennis and I did the capstone project together)**
+
+<br>
+
+[![My Projects](https://img.shields.io/badge/👨‍💻-All_my_Projects-red?style=for-the-badge)](https://github.com/stars/AlexF090/lists/my-projects-co-author)
+
 ## Things I code with
 
 ### Frameworks, Platforms and Libraries
