@@ -11,8 +11,8 @@ Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany
 
 ## My Projects
 
-[![My Projects](https://img.shields.io/badge/⛽️-Capstone%20Project-blue?style=for-the-badge)](https://github.com/D3nnis249/GenialTanken-Capstone)
-<br> **(Dennis and I did the capstone project together)**
+[![My Projects](https://img.shields.io/badge/⛽️-Capstone%20Project-blue?style=for-the-badge)](https://github.com/AlexF090/GenialTanken-Capstone)
+<br> **(Dennis and I did the capstone project together) [Here is the link to the app](https://genial-tanken.vercel.app/)**
 
 <br>
 
