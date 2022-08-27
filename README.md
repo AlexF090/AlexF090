@@ -88,4 +88,9 @@ Welcome to my page! </br> I'm Alex, Junior Web Developer from **Cologne, Germany
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+<br>
+<hr>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexF090&layout=compact&langs_count=8" />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexF090)
