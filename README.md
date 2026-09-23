@@ -1,4 +1,4 @@
-<h1 align="center">Alex · Frontend Developer (React / TypeScript)</h1>
+<h1 align="center">Alex · Frontend Developer (TypeScript)</h1>
 <p align="center">Cologne, Germany</p>
 
 <p align="center">
